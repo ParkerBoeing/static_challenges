@@ -1,0 +1,70 @@
+
+nav {
+  float: right;
+  text-align: center;
+  width: 50%;
+  height: 2%;
+  background: #c55f06;
+  padding: 5px;
+  color: white;
+  font-family: Helvetica;
+  font-size: 50%;
+}
+
+header {
+  float: right;
+  width: 50%;
+  height: 2%;
+  background: #30302f;
+  padding: 5px;
+  color: white;
+  font-family: Helvetica;
+  font-size: 60%;
+}
+
+section {
+  float: right;
+  width: 50%;
+  height: 30%;
+  background: rgba(44, 45, 45, 0.5);
+  padding: 5px;
+  color: white;
+  font-family: Helvetica;
+  font-size: 50%;
+  flex: 100%;
+}
+
+article {
+  float: right;
+  width: 50%;
+  height: 20%;
+  padding: 5px;
+  background: rgba(44, 45, 45, 0.5);
+  font-family: Helvetica;
+  color: white;
+  font-size: 20%;
+  font-weight: bold;
+}
+
+footer {
+  float: right;
+  width: 50%;
+  height: 2%;
+  background: #30302f;
+  padding: 5px;
+  color: white;
+  font-family: Helvetica;
+  font-size: 6px;
+}
+
+.filler {
+  float: right;
+  width: 50%;
+  height: 30%;
+  background: rgba(44, 45, 45, 0.5);
+  padding: 5px;
+  color: white;
+  font-family: Helvetica;
+  font-size: 50%;
+  flex: 100%;
+}
